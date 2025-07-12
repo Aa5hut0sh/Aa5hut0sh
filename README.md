@@ -59,7 +59,7 @@
 ### 🔍 My Practice Arena
 
 <div align="left">
-  <a href="https://leetcode.com/ashutosh_sharma07/" target="_blank">
+  <a href="https://leetcode.com/u/Ashuttosh/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="LeetCode" />
   </a>
   <a href="https://codeforces.com/profile/A5hut0sh" target="_blank">
